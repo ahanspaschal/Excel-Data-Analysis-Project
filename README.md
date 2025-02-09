@@ -13,7 +13,7 @@ To analyze and determine how patients personal attributes such as; location, smo
 -Is there any relationship between insurance cost and patients age?
 -Does Patients’ BMI influence their insurance cost?
 - Dashboard interaction 
-<a href="https://github.com/ahanspaschal/Excel-Data-Analysis-Project/blob/main/Insurance%2520charge%2520dashboard%20(version%201).xlsb)">View Dashboard</a>
+<a href="https://github.com/ahanspaschal/Excel-Data-Analysis-Project/blob/main/Insurance%2520charge%2520dashboard%20(version%201).xlsb">View Dashboard</a>
 ## Process
 
 - Imported data to excel power query
